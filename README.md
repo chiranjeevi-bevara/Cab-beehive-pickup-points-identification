@@ -2,7 +2,7 @@
 Cab beehive pickup points identification using spark and scala
 
 
-Project #3:Instant Cabs
+Project :Instant Cabs
 Industry:Transportation
 Technologies Used:
 
